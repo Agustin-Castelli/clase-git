@@ -1,1 +1,1 @@
-# clase-git
+Lolencio Varela
